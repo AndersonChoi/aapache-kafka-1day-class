@@ -1,0 +1,1 @@
+# aapache-kafka-1day-class
